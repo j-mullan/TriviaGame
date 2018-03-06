@@ -1,0 +1,14 @@
+
+
+.header{
+  background: grey;
+  text-align: center;
+  color: white;
+  padding: 10px;
+}
+
+.answersArea{
+  background: darkgrey;
+  text-align: center;
+  color: white;
+}
